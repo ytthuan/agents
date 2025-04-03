@@ -18,7 +18,7 @@ async def set_starts() -> List[cl.Starter]:
         ),
         cl.Starter(
             label="Weather",
-            message="Find the weather in New York City.",
+            message="Find the weather in San Francisco.",
         ),
     ]
 
